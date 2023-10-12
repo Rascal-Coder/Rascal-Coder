@@ -40,3 +40,4 @@ const magicSpell = () => {
 <br/>
 
 <br/>
+<img  alt="GIF" src="./img/dino.gif?raw=true"  />
