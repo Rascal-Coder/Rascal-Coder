@@ -1,6 +1,6 @@
 # Hello there! 👋🏻 I am Rascal ! <img src="./img/cat.gif" alt="Meaow" width="50" />
 
-Hello, I'm [Rascal](https://menon-qiqi.gitee.io/docs/), a self-taught full-stack web developer and freelance software engineer from China.
+Hello, I'm [Rascal](https://menon-qiqi.gitee.io/docs/), a self-taught web developer and freelance software engineer from China.
 
 Superstitious new tools and methods,
 Adhere to criticism and self-criticism, keep an open attitude to every opportunity, and have the courage to try new things.
