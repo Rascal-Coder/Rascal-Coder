@@ -1,3 +1,4 @@
+[![Lorin-github](https://github-readme-stats.vercel.app/api?username=Rascal-Coder)](https://github.com/anuraghazra/github-readme-stats)
 **languages and tools:**
 
 <code><img height="20" src="./img/javascript.png"></code>
